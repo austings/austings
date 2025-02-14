@@ -9,14 +9,8 @@
 
 <h3 align="left">Featured Videos:</h3>
 
-## 🎥 Featured Videos
-
-| Thumbnail | Title |
-|-----------|-------|
-| [![Video 1](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=PVxcz43zpSI) | [Interview with Dan Davis](https://your-video-url-1.com) |
-| [![Video 2](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=XkuWRCzGnQQ) | [Install with Shell QEMU and Aiwnios](https://your-video-url-1.com) |
-| [![Video 3](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=isJWRD2QRNs) | [TempleOS Arrays](https://your-video-url-2.com) |
-| [![Video 4](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=ctzkxY0kOVw) | [TempleOS Tensors](https://your-video-url-3.com) |
-
+| Interview with Dan Davis | Install QEMU and Aiwnios | TempleOS Arrays | TempleOS Tensors |
+|--------------------------|-------------------------|-----------------|------------------|
+| [![Video 1](https://github.com/austings/austings/raw/main/clip.png)](https://www.youtube.com/watch?v=PVxcz43zpSI) | [![Video 2](https://github.com/austings/austings/raw/main/hq720.jpg)](https://www.youtube.com/watch?v=XkuWRCzGnQQ) | [![Video 3](https://github.com/austings/austings/raw/main/arrays.png)](https://www.youtube.com/watch?v=isJWRD2QRNs) | [![Video 4](https://github.com/austings/austings/raw/main/TempleOS_logo.png)](https://www.youtube.com/watch?v=ctzkxY0kOVw) |
 
 
