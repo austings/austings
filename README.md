@@ -15,4 +15,4 @@ If you're looking for an expert in automation and low-level systems, you've come
 |--------------------------|-------------------------|-----------------|------------------|
 | [![Video 1](https://github.com/austings/austings/raw/main/clip.png)](https://www.youtube.com/watch?v=PVxcz43zpSI) | [![Video 2](https://github.com/austings/austings/raw/main/hq720.jpg)](https://www.youtube.com/watch?v=XkuWRCzGnQQ) | [![Video 3](https://github.com/austings/austings/raw/main/arrays.png)](https://www.youtube.com/watch?v=isJWRD2QRNs) | [![Video 4](https://github.com/austings/austings/raw/main/TempleOS_logo.png)](https://www.youtube.com/watch?v=ctzkxY0kOVw) |
 
-
+### Buy my book https://templeos.net/templeos-book
