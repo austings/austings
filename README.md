@@ -1,4 +1,4 @@
-## Hello, I am Austin. Senior Systems Sorcerer
+## Hello, I am Austin. Senior Systems Open-Sorcerer
 
 If you're looking for an expert in automation and low-level systems, you've come to the right place. I've helped multiple startups enhance their SaaS products, improving both their user experience and bottom line. From APIs to kernel development, I work so much magic some call me a wizard. That's a misnomer. Technically, I'm a sorcerer.
 
